@@ -1,0 +1,6 @@
+airflow/logs/
+airflow/.env
+airflow/data/
+airflow/docker-compose.yaml
+data/
+scripts/.env
